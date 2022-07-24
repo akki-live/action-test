@@ -1,9 +1,10 @@
-import logging
+import logging, logging_tz
 import logging.handlers
 import os
 
 import requests
 
+datefmt = '%Y-%m-%d %H:%M:%S%z'
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
 logger_file_handler = logging.handlers.RotatingFileHandler(
@@ -12,7 +13,8 @@ logger_file_handler = logging.handlers.RotatingFileHandler(
     backupCount=1,
     encoding="utf8",
 )
-formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+#formatter = logging.Formatter("%(asctime)s - %(name)s - %(levelname)s - %(message)s")
+formatter = logging_tz.LocalFormatter(fmt='%(asctime)s %(message)s', datefmt=datefmt)
 logger_file_handler.setFormatter(formatter)
 logger.addHandler(logger_file_handler)
 
