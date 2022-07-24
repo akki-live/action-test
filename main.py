@@ -31,6 +31,6 @@ if __name__ == "__main__":
     if r.status_code == 200:
         data = r.json()
         temperature = data["forecast"]["temp"]
-        forcasts = data["weather"]["description"]
+        forcastss = data["weather"]["description"]
         logger.info(f'Weather in Raipur: {temperature}')
-        logger.info(f'Forcast in Raipur: {forcasts}')
+        logger.info(f'Forcast in Raipur: {forcastss}')
