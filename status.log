@@ -174,3 +174,6 @@
 2022-07-26 18:11:55,522 - __main__ - INFO - Weather in Raipur: 27.08
 2022-07-26 18:11:55,522 - __main__ - INFO - Forcast in Raipur: thunderstorm with light rain
 >>>>>>> ff8c265e61e3d5dfa2dce3a0dabd5977dddf3579
+2022-07-26 20:18:53,613 - __main__ - INFO - Token value: 
+2022-07-26 20:18:54,299 - __main__ - INFO - Weather in Raipur: 26.04
+2022-07-26 20:18:54,299 - __main__ - INFO - Forcast in Raipur: heavy intensity rain
