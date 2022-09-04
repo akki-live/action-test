@@ -889,3 +889,6 @@
 2022-09-04 16:24:44,169 - __main__ - INFO - Token value: 
 2022-09-04 16:24:44,416 - __main__ - INFO - Weather in Raipur: 26.08
 2022-09-04 16:24:44,416 - __main__ - INFO - Forcast in Raipur: scattered clouds
+2022-09-04 20:20:00,653 - __main__ - INFO - Token value: 
+2022-09-04 20:20:01,510 - __main__ - INFO - Weather in Raipur: 23.28
+2022-09-04 20:20:01,510 - __main__ - INFO - Forcast in Raipur: overcast clouds
