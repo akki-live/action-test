@@ -1748,3 +1748,6 @@
 2022-10-22 16:30:16,175 - __main__ - INFO - Token value: 
 2022-10-22 16:30:16,667 - __main__ - INFO - Weather in Raipur: 24.08
 2022-10-22 16:30:16,667 - __main__ - INFO - Forcast in Raipur: haze
+2022-10-22 20:23:01,603 - __main__ - INFO - Token value: 
+2022-10-22 20:23:02,437 - __main__ - INFO - Weather in Raipur: 18.72
+2022-10-22 20:23:02,437 - __main__ - INFO - Forcast in Raipur: clear sky
