@@ -1941,3 +1941,6 @@
 2022-11-02 12:42:13,239 - __main__ - INFO - Token value: 
 2022-11-02 12:42:13,398 - __main__ - INFO - Weather in Raipur: 26.08
 2022-11-02 12:42:13,398 - __main__ - INFO - Forcast in Raipur: haze
+2022-11-02 16:30:00,210 - __main__ - INFO - Token value: 
+2022-11-02 16:30:01,956 - __main__ - INFO - Weather in Raipur: 22.08
+2022-11-02 16:30:01,956 - __main__ - INFO - Forcast in Raipur: haze
