@@ -5430,3 +5430,6 @@
 2023-05-16 20:14:06,109 - __main__ - INFO - Token value: 
 2023-05-16 20:14:06,761 - __main__ - INFO - Weather in Raipur: 33.86
 2023-05-16 20:14:06,761 - __main__ - INFO - Forcast in Raipur: broken clouds
+2023-05-17 01:13:45,670 - __main__ - INFO - Token value: 
+2023-05-17 01:13:45,909 - __main__ - INFO - Weather in Raipur: 28.08
+2023-05-17 01:13:45,909 - __main__ - INFO - Forcast in Raipur: haze
